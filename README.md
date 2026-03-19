@@ -10,6 +10,9 @@ automate daily workflows.
 The system uses an AI Agent (LLM-based) to interpret user queries and
 execute tasks intelligently via connected tools.
 
+## 🖼️ Workflow Architecture
+
+![AI Workflow](ai-workflow-assistant.png)
 ------------------------------------------------------------------------
 
 ## 🧠 Key Features
