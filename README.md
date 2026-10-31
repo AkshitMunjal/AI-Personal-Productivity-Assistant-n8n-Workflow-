@@ -1,5 +1,9 @@
 # AI Personal Productivity Assistant (n8n Workflow)
 
+<p align="center">
+  <img src="assets/how-it-works.gif" alt="How the AI agent picks and runs the right tools for each request" width="900">
+</p>
+
 ## 🚀 Overview
 
 This project is an advanced AI-powered personal productivity assistant
